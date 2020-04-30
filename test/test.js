@@ -4,7 +4,7 @@
 var assert = require('assert' );
 
 // Cargar el módulo con las funciones para testear
-var func = require('funciones.js');
+var func = require('../funciones.js');
 
 // Test
 it('comprobar función suma', function() {
